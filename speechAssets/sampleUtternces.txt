@@ -1,0 +1,64 @@
+GetCityIntent {City_IL}
+GetCityIntent yes {City_IL}
+GetCityIntent for {City_IL}
+GetCityIntent for candle lighting time in {City_IL}
+GetCityIntent for shabbat times in {City_IL}
+GetCityIntent information about {City_IL}
+GetCityIntent for information about {City_IL}
+GetCityIntent about {City_IL}
+GetCityIntent {City_US}
+GetCityIntent yes {City_US}
+GetCityIntent for {City_US}
+GetCityIntent for candle lighting time in {City_US}
+GetCityIntent for shabbat times in {City_US}
+GetCityIntent information about {City_US}
+GetCityIntent for information about {City_US}
+GetCityIntent about {City_US}
+GetCityIntent {City_GB}
+GetCityIntent yes {City_GB}
+GetCityIntent for {City_GB}
+GetCityIntent for candle lighting time in {City_GB}
+GetCityIntent for shabbat times in {City_GB}
+GetCityIntent information about {City_GB}
+GetCityIntent for information about {City_GB}
+GetCityIntent about {City_GB}
+ThanksIntent no thank you
+ThanksIntent no thanks
+AMAZON.YesIntent yes please
+AMAZON.HelpIntent what are the city names you know
+AMAZON.HelpIntent list the city names
+AMAZON.HelpIntent to list the city names
+AMAZON.HelpIntent what city names do you know
+AMAZON.HelpIntent list all the city names
+AMAZON.HelpIntent what are the cities you know
+AMAZON.HelpIntent what cities can you tell me about
+AMAZON.HelpIntent what are the country names you know
+AMAZON.HelpIntent list the country names
+AMAZON.HelpIntent to list the country names
+AMAZON.HelpIntent what country names do you know
+AMAZON.HelpIntent list all the country names
+AMAZON.HelpIntent what are the countries you know
+AMAZON.HelpIntent what countries can you tell me about
+CountrySelected {Country}
+CountrySelected what are the city names you know in {Country}
+CountrySelected list the city names in {Country}
+CountrySelected what city names do you know in {Country}
+CountrySelected list all the city names in {Country}
+CountrySelected what are the cities you know in {Country}
+CountrySelected what cities can you tell me about in {Country}
+CountrySelected do you know any cities in {Country}
+CountrySelected do you know any city names in {Country}
+CountrySelected can you tell me about cities in {Country}
+CountrySelected can you tell me about city names in {Country}
+CountrySelected what are the city names you know in the {Country}
+CountrySelected list the city names in the {Country}
+CountrySelected what city names do you know in the {Country}
+CountrySelected list all the city names in the {Country}
+CountrySelected what are the cities you know in the {Country}
+CountrySelected what cities can you tell me about in the {Country}
+CountrySelected do you know any cities in the {Country}
+CountrySelected do you know any city names in the {Country}
+CountrySelected can you tell me about cities in the {Country}
+CountrySelected can you tell me about city names in the {Country}
+CountrySelected for city names in {Country}
+CountrySelected for city names in the {Country}
