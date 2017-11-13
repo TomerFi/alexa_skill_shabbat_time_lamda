@@ -1,0 +1,57 @@
+{
+    "belfast": {
+        "geoname": "GB-Belfast",
+        "geoid" : "2655984",
+        "list" : "yes"
+    },
+    "birmingham": {
+        "geoname": "GB-Birmingham",
+        "geoid" : "2655603",
+        "list" : "yes"
+    },
+    "bristol": {
+        "geoname": "GB-Bristol",
+        "geoid" : "2654675",
+        "list" : "yes"
+    },
+    "cardiff": {
+        "geoname": "GB-Cardiff",
+        "geoid" : "2653822",
+        "list" : "yes"
+    },
+    "edinburgh": {
+        "geoname": "GB-Edinburgh",
+        "geoid" : "2650225",
+        "list" : "yes"
+    },
+    "glasgow": {
+        "geoname": "GB-Glasgow",
+        "geoid" : "2648579",
+        "list" : "yes"
+    },
+    "leeds": {
+        "geoname": "GB-Leeds",
+        "geoid" : "2644688",
+        "list" : "yes"
+    },
+    "liverpool": {
+        "geoname": "GB-Liverpool",
+        "geoid" : "2644210",
+        "list" : "yes"
+    },
+    "london": {
+        "geoname": "GB-London",
+        "geoid" : "2643743",
+        "list" : "yes"
+    },
+    "manchester": {
+        "geoname": "GB-Manchester",
+        "geoid" : "2643123",
+        "list" : "yes"
+    },
+    "sheffield": {
+        "geoname": "GB-Sheffield",
+        "geoid" : "2638077",
+        "list" : "yes"
+    }
+}

@@ -1,0 +1,44 @@
+atlanta
+austin
+baltimore
+boston
+buffalo
+chicago
+cincinnati
+cleveland
+columbus
+dallas
+denver
+detroit
+hartford
+honolulu
+houston
+lakewood
+las vegas
+livingston
+los angeles
+memphis
+miami
+milwaukee
+monsey
+new haven
+new york
+omaha
+orlando
+passaic
+philadelphia
+phoenix
+pittsburgh
+portland
+providence
+richmond
+rochester
+saint louis
+saint paul
+san diego
+san francisco
+seattle
+silver spring
+teaneck
+washington
+white plains

@@ -1,0 +1,11 @@
+belfast
+birmingham
+bristol
+cardiff
+edinburgh
+glasgow
+leeds
+liverpool
+london
+manchester
+sheffield

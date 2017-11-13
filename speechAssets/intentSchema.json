@@ -1,0 +1,25 @@
+{
+  "intents":
+  [
+    { "intent": "GetCityIntent",
+      "slots":
+      [
+        {"name": "City_IL", "type": "LIST_OF_CITIES_IL"},
+        {"name": "City_GB", "type": "LIST_OF_CITIES_GB"},
+        {"name": "City_US", "type": "LIST_OF_CITIES_US"}
+      ]
+    },
+    { "intent": "CountrySelected",
+      "slots":
+      [
+        {"name": "Country", "type": "LIST_OF_COUNTRIES"}
+      ]
+    },    
+    {"intent": "ThanksIntent"},
+    {"intent": "AMAZON.YesIntent"},
+    {"intent": "AMAZON.NoIntent"},
+    {"intent": "AMAZON.HelpIntent"},
+    {"intent": "AMAZON.StopIntent"},
+    {"intent": "AMAZON.CancelIntent"}
+  ]
+}
