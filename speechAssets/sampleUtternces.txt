@@ -1,0 +1,27 @@
+GetCityIntent {City_IL}
+GetCityIntent yes {City_IL}
+GetCityIntent for {City_IL}
+GetCityIntent for candle lighting time in {City_IL}
+GetCityIntent information about {City_IL}
+GetCityIntent for information about {City_IL}
+GetCityIntent about {City_IL}
+GetCityIntent {City_US}
+GetCityIntent yes {City_US}
+GetCityIntent for {City_US}
+GetCityIntent for candle lighting time in {City_US}
+GetCityIntent information about {City_US}
+GetCityIntent for information about {City_US}
+GetCityIntent about {City_US}
+ThanksIntent no thank you
+ThanksIntent no thanks
+AMAZON.YesIntent yes please
+AMAZON.HelpIntent what are the city names you know
+AMAZON.HelpIntent list the city names
+AMAZON.HelpIntent to list the city names
+AMAZON.HelpIntent what city names do you know
+AMAZON.HelpIntent list all the city names
+CountrySelectedUS united states
+CountrySelectedUS u.s
+CountrySelectedUS u.s.
+CountrySelectedUS u s
+CountrySelectedIL israel
