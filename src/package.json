@@ -1,0 +1,20 @@
+{
+  "name": "src",
+  "version": "2.0.0",
+  "description": "alexa_skil_for_retrieving_candle_lighting_time",
+  "main": "index.js",
+  "author": "Tomer_Figenblat",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TomerFi/alexa_skill_shabbat_time_lamda.git"
+  },
+  "homepage": "https://github.com/TomerFi/alexa_skill_shabbat_time_lamda",
+  "keywords": [],
+  "bugs": "tomer.figenblat@gmail.com",
+  "contributors": [],
+  "dependencies": {
+    "alexa-sdk": "^1.0.9",
+    "request": "^2.81.0"
+  }
+}
