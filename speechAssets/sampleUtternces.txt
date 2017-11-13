@@ -1,0 +1,15 @@
+GetCityIntent {City}
+GetCityIntent yes {City}
+GetCityIntent for {City}
+GetCityIntent for candle lighting time in {City}
+GetCityIntent information about {City}
+GetCityIntent for information about {City}
+GetCityIntent about {City}
+ThanksIntent no thank you
+ThanksIntent no thanks
+AMAZON.YesIntent yes please
+AMAZON.HelpIntent what are the city names you know
+AMAZON.HelpIntent list the city names
+AMAZON.HelpIntent to list the city names
+AMAZON.HelpIntent what city names do you know
+AMAZON.HelpIntent list all the city names
